@@ -72,19 +72,11 @@ const Lg = (props) => {
 const Intro = () => {
   return (
     <div>
-      <h1 className='text-5xl font-bold mb-9'>Embed Tableau</h1>
+      <h1 className='text-5xl font-bold mb-9'>Customer Data Product</h1>
         <div className='leading-loose space-y-6'>
-          <p>Tableau is the world's leading end-to-end data and analytics platform.</p>
+          <p></p>
           <p>
-            Leverage the analytical powerhouse of Tableau to analyze and visualize data.
-            The Embedding Playbook teaches you how to compose Tableau's varied product capabilities
-            into applications that thrill customers, coworkers, and friends!
-          </p>
-          <p>
-            Beyond creating visual representations of data, Tableau provides
-            the greatest benefits as it helps people discover what information is valuable to others.
-            It enables users to analyze data and build the interfaces that represent them with unmatched speed
-            and flexibility resulting in a springboarding of ideas into value.
+            Customer Data Product (CDP) at Deere is a powerful data integration solution that enables a unified view of customer data for digital products and analytics capabilities. By bringing together various source data products, CDP builds a digital thread of customer data that integrates all customer activities, behavioral insights, and predictive analytics, providing a comprehensive and up-to-date view of a customer's activity. CDP is designed to be a consumer-aligned data source, available to anyone who needs quick and easy access to customer data to improve customer engagement and experience.
           </p>
         </div>
     </div>
