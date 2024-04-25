@@ -76,8 +76,7 @@ const Intro = () => {
         <div className='leading-loose space-y-6'>
           <p></p>
           <p>
-            Customer Data Product (CDP) at Deere is a powerful data integration solution that enables a unified view of customer data for digital products and analytics capabilities. By bringing together various source data products, CDP builds a digital thread of customer data that integrates all customer activities, behavioral insights, and predictive analytics, providing a comprehensive and up-to-date view of a customer's activity. CDP is designed to be a consumer-aligned data source, available to anyone who needs quick and easy access to customer data to improve customer engagement and experience.
-          </p>
+            Supply Chain Data Product (SCDP) at Deere is a robust data integration solution that allows for a consolidated view of supply chain data for improved operational efficiency and decision-making. By consolidating data from various sources, SCDP creates a seamless flow of information regarding inventory levels, production schedules, supplier performance, and logistics operations. This unified view enables better forecasting, optimization of resources, and identification of potential bottlenecks in the supply chain process. SCDP is designed to be a reliable source of data for all stakeholders involved in the supply chain management process, providing real-time insights to drive continuous improvement and agility within the supply chain network.          </p>
         </div>
     </div>
   )
