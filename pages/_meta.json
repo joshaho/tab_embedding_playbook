@@ -31,19 +31,11 @@
     }
   },
   "start": {
-    "title": "Getting Started",
+    "title": "Customer",
     "type": "page"
   },
   "security": {
-    "title": "Security",
-    "type": "page"
-  },
-  "frontend": {
-    "title": "Frontend",
-    "type": "page"
-  },
-  "backend": {
-    "title": "Backend",
+    "title": "Machine Health",
     "type": "page"
   }
 }
