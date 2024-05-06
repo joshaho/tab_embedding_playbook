@@ -1,0 +1,45 @@
+{
+  "index": {
+    "title": "Embed Tableau",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "layout": "full"
+    }
+  },
+  "demo": {
+    "title": "Demo",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "layout": "full",
+      "breadcrumb": false,
+      "footer": false,
+      "sidebar": false,
+      "toc": false,
+      "pagination": false,
+      "navbar": false,
+      "timestamp": false
+    }
+  },
+  "chat": {
+    "title": "Ask AI",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "timestamp": false
+    }
+  },
+  "start": {
+    "title": "Home",
+    "type": "page"
+  },
+  "security": {
+    "title": "AI Innovation Lab",
+    "type": "page"
+  },
+  "frontend": {
+    "title": "Help",
+    "type": "page"
+  }
+}
